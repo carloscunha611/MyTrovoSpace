@@ -21,7 +21,7 @@ Projeto pessoal
 
 ## ▶ Demonstração
 
-  <img src = "./.github/mobile.gif" width=125>
+<img src = "./.github/mobile.gif" width=125><img src = "./.github/desktop.gif" width=350>
 
 </div>
 
