@@ -13,7 +13,7 @@ Projeto pessoal
 
 <div align = center>
 
-<div width=50>
+<div>
 
 <img src = "./.github/preview.png" width=500>
 
