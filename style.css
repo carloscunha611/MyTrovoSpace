@@ -81,8 +81,10 @@ section div {
 
 section ul {
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 1rem;
   margin-top: 1rem;
 }
 
@@ -107,6 +109,7 @@ section ul li:hover {
 .socialList a {
   font-size: xx-large;
   color: var(--color-text);
+  display: flex;
 }
 
 .socialList a:hover {
